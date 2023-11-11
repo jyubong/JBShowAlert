@@ -1,0 +1,16 @@
+PODS:
+  - JBSimpleAlert (0.1.0)
+
+DEPENDENCIES:
+  - JBSimpleAlert (from `../`)
+
+EXTERNAL SOURCES:
+  JBSimpleAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JBSimpleAlert: 1da0f3567e237d0ac41062402d4d3dce781d39b7
+
+PODFILE CHECKSUM: d726dbeb02f0a6e1aba43b038d75d9dd351d9bba
+
+COCOAPODS: 1.12.1

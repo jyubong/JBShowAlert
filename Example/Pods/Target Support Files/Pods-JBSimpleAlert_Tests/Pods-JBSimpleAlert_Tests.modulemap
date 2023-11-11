@@ -1,0 +1,6 @@
+framework module Pods_JBSimpleAlert_Tests {
+  umbrella header "Pods-JBSimpleAlert_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

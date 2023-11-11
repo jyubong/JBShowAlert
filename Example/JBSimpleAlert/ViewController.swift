@@ -7,17 +7,18 @@
 //
 
 import UIKit
+import JBSimpleAlert
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func showAlert(_ sender: UIButton) {
+        JBSimpleAlert(title: "Is this simple?", confirm: "Yes") {
+            print("It is so simple.")
+        }.show(in: view)
     }
 
 }
