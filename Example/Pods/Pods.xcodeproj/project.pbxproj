@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		48D254AC7B7D1EFAB06AB63A43202882 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107F2F612A7A4BE0C26851C445AD7936 /* ReplaceMe.swift */; };
+		48D254AC7B7D1EFAB06AB63A43202882 /* JBSimpleAlertswift in Sources */ = {isa = PBXBuildFile; fileRef = 107F2F612A7A4BE0C26851C445AD7936 /* JBSimpleAlertswift */; };
 		50CD3D8B0AF99F98C4E3640AEC0A732B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		6646FDEAFA7BFDB76F963132B25719E6 /* Pods-JBSimpleAlert_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3BE5A9CA56DA9A82E9456DFA6AEEB4 /* Pods-JBSimpleAlert_Example-dummy.m */; };
 		66D5B131ADFFF16C74A74CA72A0D2916 /* Pods-JBSimpleAlert_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 507E48B446F0EF03C7E34E39AFC0E4D9 /* Pods-JBSimpleAlert_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -40,7 +40,7 @@
 		0917001856F80EE95DB4431BEBD3D6C6 /* JBSimpleAlert-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JBSimpleAlert-umbrella.h"; sourceTree = "<group>"; };
 		0997F74D4267CB8C81A4EF10BB14D7BC /* JBSimpleAlert.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JBSimpleAlert.modulemap; sourceTree = "<group>"; };
 		0C3F6EF3E16D7EB4D32E3BDA1772FDBD /* Pods-JBSimpleAlert_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JBSimpleAlert_Example-Info.plist"; sourceTree = "<group>"; };
-		107F2F612A7A4BE0C26851C445AD7936 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = JBSimpleAlert/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		107F2F612A7A4BE0C26851C445AD7936 /* JBSimpleAlertswift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JBSimpleAlertswift; path = JBSimpleAlert/Classes/JBSimpleAlertswift; sourceTree = "<group>"; };
 		149B9E77C2CE1FDB247613C0A7BC09D3 /* Pods-JBSimpleAlert_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JBSimpleAlert_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		14E743D4E95069E14D43ACA8B9E4222E /* Pods-JBSimpleAlert_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JBSimpleAlert_Example.release.xcconfig"; sourceTree = "<group>"; };
 		154BA9AC92BBA1919D3998324849E182 /* JBSimpleAlert-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JBSimpleAlert-Info.plist"; sourceTree = "<group>"; };
@@ -178,7 +178,7 @@
 		97B0DA4F52155CB70AB3057A922EABC1 /* JBSimpleAlert */ = {
 			isa = PBXGroup;
 			children = (
-				107F2F612A7A4BE0C26851C445AD7936 /* ReplaceMe.swift */,
+				107F2F612A7A4BE0C26851C445AD7936 /* JBSimpleAlertswift */,
 				AA6A3251CA8DF2D0461C98F2AC0F2AE8 /* Pod */,
 				8D11B1834DC3E1F92BFEC05F23865B0C /* Support Files */,
 			);
@@ -376,7 +376,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFA9A6B6D565639B404FBD1ED3D24C58 /* JBSimpleAlert-dummy.m in Sources */,
-				48D254AC7B7D1EFAB06AB63A43202882 /* ReplaceMe.swift in Sources */,
+				48D254AC7B7D1EFAB06AB63A43202882 /* JBSimpleAlertswift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
