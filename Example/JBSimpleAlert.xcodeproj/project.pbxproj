@@ -46,6 +46,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		B27480F686BC0059C83249C8 /* Pods-JBSimpleAlert_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JBSimpleAlert_Tests.release.xcconfig"; path = "Target Support Files/Pods-JBSimpleAlert_Tests/Pods-JBSimpleAlert_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		BFC832E52AFFBDCD000E9093 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		C2238A87DD593D20D0BB8999 /* Pods-JBSimpleAlert_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JBSimpleAlert_Tests.debug.xcconfig"; path = "Target Support Files/Pods-JBSimpleAlert_Tests/Pods-JBSimpleAlert_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -135,6 +136,7 @@
 				4961E29E4645DA0BB2CA8795 /* JBSimpleAlert.podspec */,
 				11C1694888810DA0EF95CBD2 /* README.md */,
 				4AF3E5D3F5F61C93E96E19AE /* LICENSE */,
+				BFC832E52AFFBDCD000E9093 /* Package.swift */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";

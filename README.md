@@ -1,7 +1,7 @@
 # JBSimpleAlert
 
-[![CI Status](https://img.shields.io/travis/jyubong/JBSimpleAlert.svg?style=flat)](https://travis-ci.org/jyubong/JBSimpleAlert)
 [![Version](https://img.shields.io/cocoapods/v/JBSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/JBSimpleAlert)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/JBSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/JBSimpleAlert)
 [![Platform](https://img.shields.io/cocoapods/p/JBSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/JBSimpleAlert)
 
