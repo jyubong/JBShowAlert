@@ -8,11 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		BFC832F42B01CF12000E9093 /* JBSimpleAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = BFC832F32B01CF12000E9093 /* JBSimpleAlert.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFC833222B01D2D2000E9093 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = BFC833202B01D2D2000E9093 /* .gitkeep */; };
+		BFC833232B01D2D2000E9093 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC833212B01D2D2000E9093 /* ReplaceMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BFC832F02B01CF12000E9093 /* JBSimpleAlert.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JBSimpleAlert.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC832F32B01CF12000E9093 /* JBSimpleAlert.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JBSimpleAlert.h; sourceTree = "<group>"; };
+		BFC833202B01D2D2000E9093 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		BFC833212B01D2D2000E9093 /* ReplaceMe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,9 +49,19 @@
 		BFC832F22B01CF12000E9093 /* JBSimpleAlert */ = {
 			isa = PBXGroup;
 			children = (
+				BFC8331F2B01D2D2000E9093 /* Classes */,
 				BFC832F32B01CF12000E9093 /* JBSimpleAlert.h */,
 			);
 			path = JBSimpleAlert;
+			sourceTree = "<group>";
+		};
+		BFC8331F2B01D2D2000E9093 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				BFC833202B01D2D2000E9093 /* .gitkeep */,
+				BFC833212B01D2D2000E9093 /* ReplaceMe.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFC833222B01D2D2000E9093 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -129,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFC833232B01D2D2000E9093 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
